@@ -1,0 +1,28 @@
+modLoader="javafml" 
+loaderVersion="[36,)" 
+license="MIT"
+[[mods]]
+modId="starlightweapons"
+version="${file.jarVersion}" 
+displayName="Starlight Weaponry" 
+logoFile="slingot.png"
+credits="Mod by ttttoooo"
+authors="With love ttttoooo."
+description='''
+Adds modular weapons using the vanilla crafting system.
+
+Mod by ttttoooo.
+'''
+
+[[dependencies.StarlightWeapons]] #optional
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.StarlightWeapons]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S ",
+        " S ",
+        " G "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "sl:slingot"
+        },
+        
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sl:ssword_base",
+        "count": 1
+    }
+}

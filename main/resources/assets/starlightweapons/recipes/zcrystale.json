@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "PNG",
+        "OZO",
+        "GOP"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "minecraft:nether_star"
+        },
+        
+        "Z":
+        {
+            "item": "sl:zcrystal"
+        },
+        
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+        
+        "P":
+        {
+            "item": "sl:pcrystal"
+        },
+        
+        "G":
+        {
+            "item": "sl:gcrystal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sl:zcrystale",
+        "count": 1
+    }
+}

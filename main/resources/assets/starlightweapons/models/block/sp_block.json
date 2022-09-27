@@ -1,0 +1,12 @@
+{
+   "parent": "block/orientable",
+   "textures": {
+   	   "particle": "starlightweapons:blocks/spew_block",
+       "up": "starlightweapons:blocks/spp_block",
+       "down": "starlightweapons:blocks/spg_block",
+       "south": "starlightweapons:blocks/spns_block",
+       "north": "starlightweapons:blocks/spns_block",
+       "west": "starlightweapons:blocks/spew_block",
+       "east": "starlightweapons:blocks/spew_block"
+   }
+}

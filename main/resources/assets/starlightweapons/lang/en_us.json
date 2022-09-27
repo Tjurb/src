@@ -1,0 +1,68 @@
+{
+	//Order
+	"item.starlightweapons.ccrystal": "Chrono Crystal",
+	"item.starlightweapons.ccrystale": "Grimmite Chrono Crystal",
+	"item.starlightweapons.drystale": "Purite Diamond",
+	"item.starlightweapons.spcrystal": "Diaspore",
+	"item.starlightweapons.spcrystale": "Neutral Diaspore",
+	"item.starlightweapons.gcrystal": "Grimmite Crystal",
+	"item.starlightweapons.pcrystal": "Purite Crystal",
+	"item.starlightweapons.slingot": "Starlight Ingot",
+	"item.starlightweapons.dlingot": "Darklight Ingot",
+	//Order/Blocks
+	"block.starlightweapons.sl_block": "Starlight Block",
+	"block.starlightweapons.dl_block": "Darklight Block",
+	"block.starlightweapons.cc_block": "Chrono Block",
+	"block.starlightweapons.sp_block": "Diaspore Block",
+	"block.starlightweapons.pu_block": "Purite Block",
+	"block.starlightweapons.gr_block": "Grimmite Block",
+	"block.starlightweapons.cco_block": "Chrono Ore",
+	"block.starlightweapons.spo_block": "Diaspore Ore",
+	"block.starlightweapons.puo_block": "Purite Ore",
+	"block.starlightweapons.gro_block": "Grimmite Ore",
+	
+	//Chaos
+	"item.starlightweapons.bcrystal": "Benitoite Crystal",
+	"item.starlightweapons.bcrystale": "Void Benitoite",
+	"item.starlightweapons.kcrystal": "Kornerupine Crystal",
+	"item.starlightweapons.kcrystale": "Neutral Kornerupine",
+	"item.starlightweapons.rcrystal": "Red Spinel Crystal",
+	"item.starlightweapons.rcrystale": "Inverted Red Spinel",
+	"item.starlightweapons.vocrystal": "Void Crystal",
+	"item.starlightweapons.dicrystal": "Disorder Crystal",
+	"item.starlightweapons.voingot": "Void Ingot",
+	"item.starlightweapons.diingot": "Disorder Ingot",
+	//Chaos/Blocks
+	"block.starlightweapons.vo_block": "Void Block",
+	"block.starlightweapons.di_block": "Disorder Block",
+	"block.starlightweapons.be_block": "Benitoite Block",
+	"block.starlightweapons.re_block": "Red Spinel Block",
+	"block.starlightweapons.ko_block": "Kornerupine Block",
+	"block.starlightweapons.voo_block": "Void Ore",
+	"block.starlightweapons.dio_block": "Disorder Ore",
+	"block.starlightweapons.beo_block": "Benitoite Ore",
+	"block.starlightweapons.reo_block": "Red Spinel Ore",
+	"block.starlightweapons.koo_block": "Kornerupine Ore",
+	
+	//Misc
+	"item.starlightweapons.nacrystal": "Nautilus Amber",
+	"item.starlightweapons.sacrystal": "Sapphire",
+	//Misc/Blocks
+	"block.starlightweapons.na_block": "Nautilus Amber Block",
+	"block.starlightweapons.sa_block": "Sapphire Block",
+	"block.starlightweapons.nao_block": "Nautilus Amber Ore",
+	"block.starlightweapons.sao_block": "Sapphire Ore",
+	//Misc/Tools
+	"item.starlightweapons.na_pick": "Nautilus Amber Pickaxe",
+	"item.starlightweapons.na_axe": "Nautilus Amber Axe",
+	"item.starlightweapons.na_spade": "Nautilus Amber Shovel",
+	"item.starlightweapons.na_hoe": "Nautilus Amber Hoe",
+	"item.starlightweapons.sa_pick": "Sapphire Pickaxe",
+	"item.starlightweapons.sa_axe": "Sapphire Axe",
+	"item.starlightweapons.sa_spade": "Sapphire Shovel",
+	"item.starlightweapons.sa_hoe": "Sapphire Hoe",
+
+	//Other
+	"itemGroup.starlightweaponsTab": "Starlight Weaponry"
+
+}

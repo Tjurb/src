@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "starlightweapons:items/dsword_chro"
+	}
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S ",
+        " Z ",
+        " L "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "sl:dlingot"
+        },
+        
+        "L":
+        {
+            "item": "sl:dsword_base"
+        },
+        
+        "Z":
+        {
+            "item": "sl:zcrystale"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sl:dsword_zult",
+        "count": 1
+    }
+}

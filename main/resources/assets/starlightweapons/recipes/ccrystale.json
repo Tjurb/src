@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GNG",
+        "OCO",
+        "GOG"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "minecraft:nether_star"
+        },
+        
+        "C":
+        {
+            "item": "sl:ccrystal"
+        },
+        
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+        
+        "G":
+        {
+            "item": "sl:gcrystal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sl:ccrystale",
+        "count": 1
+    }
+}

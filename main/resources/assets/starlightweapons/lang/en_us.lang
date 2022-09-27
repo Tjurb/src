@@ -1,0 +1,80 @@
+//Order
+item.ssword_base.name=Starlight Sword
+item.ssword_diam.name=Diamond Starlight Sword
+item.ssword_chro.name=Chrono Starlight Sword
+item.ssword_zult.name=Zultanite Starlight Sword
+item.slingot.name=Starlight Ingot
+item.dsword_base.name=Darklight Sword
+item.dsword_chro.name=Chrono Darklight Sword
+item.dsword_diam.name=Diamond Darklight Sword
+item.dsword_zult.name=Zultanite Darklight Sword
+item.dlingot.name=Darklight Ingot
+
+item.ccrystal.name=Chrono Crystal
+item.ccrystale.name=Grimite Chrono Crystal
+item.dcrystale.name=Purite Diamond 
+item.zcrystal.name=Zultanite Gem
+item.zcrystale.name=Neutral Zultanite Gem
+item.pcrystal.name=Purite Crystal
+item.gcrystal.name=Grimite Crystal
+
+//Chaos
+item.vocrystal.name=Voidite
+item.dicrystal.name=Disordite
+item.bcrystal.name=Benitoite
+item.bcrystale.name=Disorder Benitoite
+item.rcrystal.name=Red Spinel
+item.rcrystale.name=Void Red Spinel
+item.kcrystal.name=Kornerupine
+item.kcrystale.name=Cursed Kornerupine
+item.voingot.name=Void Ingot
+item.diingot.name=Disorder Ingot
+
+//Tools
+item.sa_pick.name=Sapphire Pickaxe
+item.sa_hoe.name=Sapphire Hoe
+item.sa_spade.name=Sapphire Shovel
+item.sa_axe.name=Sapphire Axe
+item.na_pick.name=Amber Pickaxe
+item.na_hoe.name=Amber Hoe
+item.na_spade.name=Amber Shovel
+item.na_axe.name=Amber Axe
+item.sacrystal.name=Sapphire
+item.nacrystal.name=Nautilus Amber
+
+//Ores
+tile.puo_block.name=Purite Ore
+tile.cco_block.name=Chrono Crystal Ore
+tile.gro_block.name=Grimite Ore
+tile.zuo_block.name=Zultanite Ore
+tile.sao_block.name=Sapphire Ore
+tile.nao_block.name=Nautilus Amber Ore
+tile.beo_block.name=Benitoite Ore
+tile.reo_block.name=Red Spinel Ore
+tile.koo_block.name=Kornerupine Ore
+tile.voo_block.name=Voidite Ore
+tile.dio_block.name= Disordite Ore
+
+//Blocks
+tile.zu_block.name=Zultanite Block
+tile.pu_block.name=Purite Block
+tile.gr_block.name=Grimite Block
+tile.cc_block.name=Chrono Crystal Block
+tile.dl_block.name=Darklight Block
+tile.sl_block.name=Starlight Block
+tile.sa_block.name=Sapphire Block
+tile.na_block.name=Nautilus Amber Block
+
+tile.be_block.name=Benitoite Block
+tile.re_block.name=Red Spinel Block
+tile.ko_block.name=Kornerupine Block
+tile.di_block.name=Disordite Block
+tile.vo_block.name=Voidite Block
+tile.dii_block.name=Disorder Ingot Block
+tile.voi_block.name=Void Ingot Block
+
+tile.lforge.name=Star Maker's Table
+tile.blockSForgeOff.name=Star Forge
+tile.blockSForgeOn.name=Star Forge
+
+itemGroup.sl.tabStarlightWeapons=Starlight Mod

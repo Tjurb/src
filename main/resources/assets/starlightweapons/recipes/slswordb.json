@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S ",
+        " C ",
+        " L "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "sl:slingot"
+        },
+        
+        "L":
+        {
+            "item": "sl:ssword_base"
+        },
+        
+        "C":
+        {
+            "item": "sl:ccrystale"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sl:ssword_chro",
+        "count": 1
+    }
+}

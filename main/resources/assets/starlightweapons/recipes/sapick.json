@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        " # ",
+        " # "
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        
+         "S":
+        {
+            "item": "sl:sacrystal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sl:sa_pick",
+        "count": 1
+    }
+}

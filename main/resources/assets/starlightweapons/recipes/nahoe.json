@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " SS",
+        " # ",
+        " # "
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        
+         "S":
+        {
+            "item": "sl:nacrystal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sl:na_hoe",
+        "count": 1
+    }
+}

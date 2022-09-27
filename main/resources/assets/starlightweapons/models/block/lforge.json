@@ -1,0 +1,12 @@
+{
+   "parent": "block/orientable",
+   "textures": {
+   	   "particle": "starlightweapons:blocks/lf_top",
+       "up": "starlightweapons:blocks/lf_top",
+       "down": "starlightweapons:blocks/lf_bot",
+       "south": "starlightweapons:blocks/lfns_side",
+       "north": "starlightweapons:blocks/lfns_side",
+       "west": "starlightweapons:blocks/lfew_side",
+       "east": "starlightweapons:blocks/lfew_side"
+   }
+}

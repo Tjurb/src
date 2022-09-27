@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "PNP",
+        "ODO",
+        "POP"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "minecraft:nether_star"
+        },
+        
+        "D":
+        {
+            "item": "minecraft:diamond"
+        },
+        
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+        
+        "P":
+        {
+            "item": "sl:pcrystal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sl:dcrystale",
+        "count": 1
+    }
+}
