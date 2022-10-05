@@ -19,9 +19,21 @@ public enum ModItemTiers implements IItemTier{
 	STARLIGHT(4, 2000, 7.0F, 2.0F, 15, () -> {
 		return Ingredient.of(ModItems.SLINGOT.get());
 	}),
+	STARLIGHTIMP(4, 2400, 7.0F, 2.2F, 16, () -> {
+		return Ingredient.of(ModItems.SLINGOT.get());
+	}),
+	STARLIGHTENH(4, 2800, 7.0F, 2.4F, 17, () -> {
+		return Ingredient.of(ModItems.SLINGOT.get());
+	}),
 	DARKLIGHT(4, 1800, 7.0F, 2.5F, 15, () -> {
 		return Ingredient.of(ModItems.DLINGOT.get());
-	}),;
+	}),
+	DARKLIGHTIMP(4, 2200, 7.0F, 2.7F, 16, () -> {
+		return Ingredient.of(ModItems.DLINGOT.get());
+	}),
+	DARKLIGHTENH(4, 2600, 7.0F, 2.9F, 17, () -> {
+		return Ingredient.of(ModItems.DLINGOT.get());
+	});
 
 	private final int level;
     private final int uses;
